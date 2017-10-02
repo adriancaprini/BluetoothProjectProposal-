@@ -17,7 +17,7 @@ Created [project schedule](https://github.com/six0four/StudentSenseHat/blob/mast
 
 ### September 13, 2017
 
-Created [proposal](https://github.com/six0four/StudentSenseHat/blob/master/documentation/ProposalContentStudentNameRev02.pdf).
+ I Created my [proposal](https://github.com/six0four/StudentSenseHat/blob/master/documentation/ProposalContentStudentNameRev02.pdf).
 
 ### September 6, 2017
 
