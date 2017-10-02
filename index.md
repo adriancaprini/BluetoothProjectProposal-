@@ -17,11 +17,11 @@ Created [project schedule](https://github.com/six0four/StudentSenseHat/blob/mast
 
 ### September 13, 2017
 
- I Created my [proposal](https://github.com/adriancaprini/BluetoothProjectProposal-/blob/master/ProposalContentStudentNameRev02.pdf).
+ I Created my [proposal](https://github.com/adriancaprini/BluetoothProjectProposal-/blob/master/ProposalContentStudentNameRev02.pdf).  
 
 ### September 6, 2017
 
- I Created my [repository](https://github.com/adriancaprini/BluetoothProjectProposal-). 
+ I Created my [repository](https://github.com/adriancaprini/BluetoothProjectProposal-). I choose the component that I am going to use to build my porject which was the 16x2 LCD. 
 
 ### August 30, 2017
 
