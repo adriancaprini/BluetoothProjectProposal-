@@ -21,7 +21,7 @@ Created [proposal](https://github.com/six0four/StudentSenseHat/blob/master/docum
 
 ### September 6, 2017
 
-Created [repository](https://github.com/six0four/StudentSenseHat). Also generated a quiz.
+ I Created my [repository](https://github.com/adriancaprini/BluetoothProjectProposal-). 
 
 ### August 30, 2017
 
