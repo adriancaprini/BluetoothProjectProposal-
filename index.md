@@ -8,7 +8,9 @@ title: simple site
 Example Blog.
 -------------
 
- 
+### September 27, 2017
+
+I created my Budget.  In the Budget I outlined what components I need for my project, as well as the cost of each of the parts. 
 
 ### September 20, 2017
 
@@ -17,7 +19,7 @@ I Created my [project schedule](https://github.com/adriancaprini/BluetoothProjec
 
 ### September 13, 2017
 
- I Created my [proposal](https://github.com/adriancaprini/BluetoothProjectProposal-/blob/master/ProposalContentStudentNameRev02.pdf).  
+ I Created my [proposal](https://github.com/adriancaprini/BluetoothProjectProposal-/blob/master/ProposalContentStudentNameRev02.pdf).  I outlined in the proposal what problem my project is trying to solve.  
 
 ### September 6, 2017
 
