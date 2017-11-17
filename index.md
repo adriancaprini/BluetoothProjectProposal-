@@ -8,6 +8,9 @@ title: simple site
 Example Blog.
 -------------
 
+### October 23, 2017
+
+
 ### October 16, 2017
 began to solder the PCB board that is due in week 7.
 
