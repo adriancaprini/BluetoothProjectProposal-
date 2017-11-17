@@ -10,7 +10,7 @@ Example Blog.
 
 ### September 27, 2017
 
-I created my Budget.  In the Budget I outlined what components I need for my project, as well as the cost of each of the parts. 
+I created my Budget.  In the Budget I outlined what components I need for my project, as well as the cost of each part. 
 
 ### September 20, 2017
 
