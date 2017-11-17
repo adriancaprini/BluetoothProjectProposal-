@@ -23,7 +23,7 @@ I Created my [project schedule](https://github.com/adriancaprini/BluetoothProjec
 
 ### September 6, 2017
 
- I Created my [repository](https://github.com/adriancaprini/BluetoothProjectProposal-). I choose the component that I am going to use to build my project which was the 16x2 LCD. 
+Wrote the tech quiz. I Created my [repository](https://github.com/adriancaprini/BluetoothProjectProposal-). I choose the component that I am going to use to build my project which was the 16x2 LCD. I started to work on my project proposal. 
 
 ### August 30, 2017
 
