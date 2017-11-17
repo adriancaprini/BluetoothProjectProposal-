@@ -23,6 +23,7 @@ I created my Budget.  In the Budget I outlined what components I need for my pro
 
 I Created my [project schedule](https://github.com/adriancaprini/BluetoothProjectProposal-/blob/master/Hardware%20Production%20Project%20Schedule.mpp).  
 [Image of Schedule](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/documentation/Week3RubricforProjectSchedule.jpg)
+I started working on the budget.
 
 ### September 18, 2017
 
