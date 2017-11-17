@@ -10,7 +10,9 @@ Example Blog.
 
 ### October 16, 2017
 
-### October 9, 2017
+### Reading day October 9, 2017
+No class.
+Updating blog to current week (October 12, 2017).
 
 ### October 2, 2017
 
