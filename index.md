@@ -20,7 +20,7 @@ I Created my [project schedule](https://github.com/adriancaprini/BluetoothProjec
 ### September 13, 2017
 
  I Created my [proposal](https://github.com/adriancaprini/BluetoothProjectProposal-/blob/master/ProposalContentStudentNameRev02.pdf).  I outlined in the proposal what problem my project is trying to solve. 
-[Image of proposal] (<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">).
+[Image of proposal] (<img src="https://raw.githubusercontent.com/adriancaprini/BluetoothProjectProposal-/master/Hardware%20proposal.PNG" alt="Proposal" width="500" height="600">).
 
 ### September 6, 2017
 
