@@ -16,8 +16,10 @@ No class.
 Updating blog to current week (October 12, 2017).
 
 ### October 2, 2017
-
-I created my Budget.  In the Budget I outlined what components I need for my project, as well as the cost of each part. 
+Started to do some research on the parts that I would need for this project and ordered them once I knew.
+I created my Budget. 
+In the Budget I outlined what components I need for my project, as well as the cost of each part. 
+picked up my PCB board from the prototype lab.
 
 ### September 25, 2017
 
