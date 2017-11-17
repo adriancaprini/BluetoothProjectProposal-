@@ -9,6 +9,7 @@ Example Blog.
 -------------
 
 ### October 16, 2017
+began to solder the PCB board that is due in week 7.
 
 ### Reading day October 9, 2017
 No class.
