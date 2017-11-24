@@ -7,16 +7,12 @@ title: simple site
 
 Example Blog.
 -------------
-### November 6, 2017
+### November 27, 2017
+began to solder the PCB board that is due in week 7.
+all the parts for the PCB board are soldered except for the module because it was not ready when we picked up the PCB Board and its part.  
+blinked an LED with the Raspberry Pi that I bought.
 picked up the module at the prototype lab.
 
-### October 30, 2017
-blinked an LED with the Raspberry Pi that I bought.
-
-### October 23, 2017
-all the parts for the PCB board are soldered except for the module because it was not ready when we picked up the PCB Board and its part.  
-### October 16, 2017
-began to solder the PCB board that is due in week 7.
 
 ### Reading day October 9, 2017
 No class.
