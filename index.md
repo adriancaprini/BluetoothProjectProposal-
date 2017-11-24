@@ -8,14 +8,13 @@ title: simple site
 Example Blog.
 -------------
 ### November 6, 2017
-
+picked up the module at the prototype lab.
 
 ### October 30, 2017
-picked a link that I am going to use to build my project.
+blinked an LED with the Raspberry Pi that I bought.
 
 ### October 23, 2017
-started to research links to find a build guide on how to build my project.  
-
+all the parts for the PCB board are soldered except for the module because it was not ready when we picked up the PCB Board and its part.  
 ### October 16, 2017
 began to solder the PCB board that is due in week 7.
 
