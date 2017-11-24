@@ -7,9 +7,14 @@ title: simple site
 
 Example Blog.
 -------------
+### November 6, 2017
+
+
+### October 30, 2017
+picked a link that I am going to use to build my project.
 
 ### October 23, 2017
-
+started to research links to find a build guide on how to build my project.  
 
 ### October 16, 2017
 began to solder the PCB board that is due in week 7.
@@ -22,7 +27,7 @@ Updating blog to current week (October 12, 2017).
 Started to do some research on the parts that I would need for this project and ordered them once I knew.
 I created my Budget. 
 In the Budget I outlined what components I need for my project, as well as the cost of each part. 
-picked up my PCB board from the prototype lab.
+I went to go pick up my PCB board from the prototype lab.
 
 ### September 25, 2017
 
