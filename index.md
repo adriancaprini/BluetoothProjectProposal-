@@ -13,6 +13,7 @@ all the parts for the PCB board are soldered except for the module because it wa
 blinked an LED with the Raspberry Pi that I bought.
 picked up the module at the prototype lab.
 
+
 ### Reading day October 9, 2017
 No class.
 Updating blog to current week (October 12, 2017).
