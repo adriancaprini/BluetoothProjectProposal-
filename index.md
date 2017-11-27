@@ -9,8 +9,8 @@ Example Blog.
 -------------
 ### October 16 - November 27, 2017
 During the five week strike these are the things I worked on:
-began to solder the PCB board that is due in week 7
-all the parts for the PCB board are soldered except for the module because it was not ready when we picked up the PCB Board   
+* began to solder the PCB board that is due in week 7
+* all the parts for the PCB board are soldered except for the module because it was not ready when we picked up the PCB Board   
 blinked an LED with the Raspberry Pi that I bought.
 picked up the module at the prototype lab.
 acquired all my parts that are required for me to start building my project.  These parts included the Raspberry Pi and the 16x2 LCD.
