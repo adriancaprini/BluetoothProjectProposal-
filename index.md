@@ -5,7 +5,7 @@ layout: page
 title: simple site
 ---
 
-Example Blog.
+Adrian Caprini CENG 317 16x2 LCD.
 -------------
 ### October 16 - November 27, 2017
 During the five week strike these are the things I worked on:
