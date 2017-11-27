@@ -11,14 +11,14 @@ Example Blog.
 During the five week strike these are the things I worked on:
 * began to solder the PCB board that is due in week 7
 * all the parts for the PCB board are soldered except for the module because it was not ready when we picked up the PCB Board   
-blinked an LED with the Raspberry Pi that I bought.
-picked up the module at the prototype lab.
-acquired all my parts that are required for me to start building my project.  These parts included the Raspberry Pi and the 16x2 LCD.
-Filmed the unboxing of the parts that I acquired.
+* blinked an LED with the Raspberry Pi that I bought.
+* picked up the module at the prototype lab.
+* acquired all my parts that are required for me to start building my project.  These parts included the Raspberry Pi and the 16x2 LCD.
+* Filmed the unboxing of the parts that I acquired.
 
 ### Reading day October 9, 2017
-No class.
-Updating blog to current week (October 12, 2017).
+*No class.
+*Updating blog to current week (October 12, 2017).
 
 ### October 2, 2017
 Started to do some research on the parts that I would need for this project and ordered them once I knew.
