@@ -14,6 +14,7 @@ all the parts for the PCB board are soldered except for the module because it wa
 blinked an LED with the Raspberry Pi that I bought.
 picked up the module at the prototype lab.
 acquired all my parts that are required for me to start building my project.  These parts included the Raspberry Pi and the 16x2 LCD.
+Filmed the unboxing of the parts that I acquired.
 
 ### Reading day October 9, 2017
 No class.
