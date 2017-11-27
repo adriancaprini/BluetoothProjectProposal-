@@ -36,7 +36,7 @@ During the five week strike these are the things I worked on:
 
 * I Created my [proposal](https://github.com/adriancaprini/BluetoothProjectProposal-/blob/master/ProposalContentStudentNameRev02.pdf). 
 * I outlined in the proposal what problem my project is trying to solve. 
-[Image of proposal] (<img src="https://raw.githubusercontent.com/adriancaprini/BluetoothProjectProposal-/master/Hardware%20proposal.PNG" alt="Proposal" width="400" height="300">).
+[Image of proposal] (<img src="https://raw.githubusercontent.com/adriancaprini/BluetoothProjectProposal-/master/Hardware%20proposal.PNG" alt="Proposal" width="300" height="300">).
 
 ### September 11, 2017
 
