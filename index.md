@@ -7,6 +7,11 @@ title: simple site
 
 Adrian Caprini CENG 317 16x2 LCD.
 -------------
+
+### December 4, 2017
+
+
+
 ### October 16 - November 27, 2017
 During the five week strike these are the things I worked on:
 * began to solder the PCB board that is due in week 7
