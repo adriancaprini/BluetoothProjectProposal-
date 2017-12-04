@@ -9,7 +9,7 @@ Adrian Caprini CENG 317 16x2 LCD.
 -------------
 
 ### December 4, 2017
-
+picture of PCB board finished: 
 
 
 ### October 16 - November 27, 2017
