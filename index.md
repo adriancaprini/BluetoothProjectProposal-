@@ -8,6 +8,9 @@ title: simple site
 Adrian Caprini CENG 317 16x2 LCD.
 -------------
 
+### December 12, 2017
+* I had the trace near the IC1 on my PCB board cut 
+
 ### December 4, 2017
 picture of PCB board finished: (https://github.com/adriancaprini/BluetoothProjectProposal-/blob/master/IMG_20171204_114744.jpg).
 
