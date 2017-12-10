@@ -9,15 +9,17 @@ Adrian Caprini CENG 317 16x2 LCD.
 -------------
 
 ### December 12, 2017
-* I had the trace near the IC1 on my PCB board cut 
+* I had the trace near the IC1 on my PCB board cut. 
+* Build Script: In this thirty second video I will start by having a opening title screen that has the project name and my name.  After that, I will show all the different parts that I have acquired in order to be able to build the 16x2 LCD.
+Also, I will be showing all my parts assembled and connected together.  Once all of that is done I will be showing my project being powered up, as well as quickly describe how the project works.
 
 ### December 4, 2017
 picture of PCB board finished: (https://github.com/adriancaprini/BluetoothProjectProposal-/blob/master/IMG_20171204_114744.jpg).
-* Demonstrated my finished PCB board
+* Demonstrated my finished PCB board.
 
 ### October 16 - November 27, 2017
 During the five week strike these are the things I worked on:
-* began to solder the PCB board that is due in week 7
+* began to solder the PCB board that is due in week 7.
 * all the parts for the PCB board are soldered except for the module because it was not ready when we picked up the PCB Board   
 * blinked an LED with the Raspberry Pi that I bought.
 * picked up the module at the prototype lab.
