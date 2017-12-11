@@ -15,6 +15,7 @@ Adrian Caprini CENG 317 16x2 LCD.
 Also, I will be showing all my parts assembled and connected together.  Once all of that is done I will be showing my project being powered up, as well as quickly describing how the project works.
 *[Placard](https://github.com/adriancaprini/BluetoothProjectProposal-/master/Placard - JohnsonRaphaelAdrian.jpg)
 [Placard] img src https://raw.githubusercontent.com/adriancaprini/BluetoothProjectProposal-/master/Placard_-_JohnsonRaphaelAdrian.jpg
+
 [Image of Schedule](https://raw.githubusercontent.com/adriancaprini/BluetoothProjectProposal-/master/Placard_-_JohnsonRaphaelAdrian.jpg)
 ### December 4, 2017
 picture of PCB board finished: (https://github.com/adriancaprini/BluetoothProjectProposal-/blob/master/IMG_20171204_114744.jpg).
