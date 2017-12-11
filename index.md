@@ -10,6 +10,7 @@ Adrian Caprini CENG 317 16x2 LCD.
 
 ### December 12, 2017
 * I had the trace near the IC1 on my PCB board cut. 
+* finished the placard.
 * Build Script: In this thirty second video I will start by having a opening title screen that has the project name and my name.  After that, I will show all the different parts that I have acquired in order to be able to build the 16x2 LCD.
 Also, I will be showing all my parts assembled and connected together.  Once all of that is done I will be showing my project being powered up, as well as quickly describing how the project works.
 
