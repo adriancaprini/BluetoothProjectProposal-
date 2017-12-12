@@ -8,14 +8,29 @@ title: simple site
 Adrian Caprini CENG 317 16x2 LCD.
 -------------
 
-### December 12, 2017
-* I had the trace near the IC1 on my PCB board cut. 
-* finished the placard.
-* Build Script: In this thirty second video I will start by having a opening title screen that has the project name and my name.  After that, I will show all the different parts that I have acquired in order to be able to build the 16x2 LCD.
-Also, I will be showing all my parts assembled and connected together.  Once all of that is done I will be showing my project being powered up, as well as quickly describing how the project works.
+### December 11, 2017
 
 * [Placard](https://github.com/adriancaprini/BluetoothProjectProposal-/blob/master/Placard_-_JohnsonRaphaelAdrian.pub)
 <img src="https://raw.githubusercontent.com/adriancaprini/BluetoothProjectProposal-/master/Placard_-_JohnsonRaphaelAdrian.jpg" alt="Image of Placard" width="350" height="350">
+
+* I had the trace near the IC1 on my PCB board cut. 
+* finished the placard.
+* 30 second Build Script
+In this thirty second video I will start by having a opening title screen that has the project name and my name.  After that, I will show all the different parts that I have acquired in order to be able to build the 16x2 LCD.
+Also, I will be showing all my parts assembled and connected together.  Once all of that is done I will be showing my project being powered up, as well as quickly describing how the project works.
+
+Opening:
+* Displaying the project name and name of the sensor I will be using to build my hardware project.
+
+Showing my acquired parts:
+* "The parts I acquired in order to build my project are the Raspberry Pi and 16x2 LCD."
+* Showing what the parts I acquired for my hardware project look like.
+
+Part assembly:
+* show how to connect the 16x2 LCD to the Raspberry Pi.
+
+Powering up:
+* show that the Raspberry Pi is powered up along with the test code running.
 
 ### December 4, 2017
 picture of PCB board finished: (https://github.com/adriancaprini/BluetoothProjectProposal-/blob/master/IMG_20171204_114744.jpg).
