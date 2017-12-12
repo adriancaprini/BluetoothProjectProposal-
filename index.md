@@ -17,11 +17,6 @@ Also, I will be showing all my parts assembled and connected together.  Once all
 * [Placard](https://github.com/adriancaprini/BluetoothProjectProposal-/blob/master/Placard_-_JohnsonRaphaelAdrian.pub)
 * <img src="https://raw.githubusercontent.com/adriancaprini/BluetoothProjectProposal-/master/Placard_-_JohnsonRaphaelAdrian.jpg" alt="Image of Placard" width="350" height="350">
 
-
-*[Placard](<img src="https://raw.githubusercontent.com/adriancaprini/BluetoothProjectProposal-/master/- Placard JohnsonRaphaelAdrian.jpg" alt="Proposal" width="300" height="300">)
-[Placard] img src https://raw.githubusercontent.com/adriancaprini/BluetoothProjectProposal-/master/Placard_-_JohnsonRaphaelAdrian.jpg
-
-[Image of Placard](https://raw.githubusercontent.com/adriancaprini/BluetoothProjectProposal-/master/PlacardJohnsonRaphaelAdrian.jpg)
 ### December 4, 2017
 picture of PCB board finished: (https://github.com/adriancaprini/BluetoothProjectProposal-/blob/master/IMG_20171204_114744.jpg).
 * Demonstrated my finished PCB board.
