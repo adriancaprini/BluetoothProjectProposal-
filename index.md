@@ -8,6 +8,9 @@ title: simple site
 Adrian Caprini CENG 317 16x2 LCD.
 -------------
 
+### December 18, 2017
+<iframe width="854" height="480" src="https://www.youtube.com/embed/1qr4lJBr0us" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
 ### December 11, 2017
 
 * [Placard](https://github.com/adriancaprini/BluetoothProjectProposal-/blob/master/Placard_-_JohnsonRaphaelAdrian.pub)
