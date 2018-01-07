@@ -8,6 +8,16 @@ title: simple site
 Adrian Caprini CENG 317 16x2 LCD.
 -------------
 
+### January 8, 2018
+Progress Report:
+16x2 LCD
+
+The project that I decided to choose this semester was working with the 16x2 LCD.  The goal that I had for this project was being able to display information onto the 16x2 LCD.  This project took me a while to complete as there were many requirements that had to be completed before I could start to connect and work with the 16x2 LCD.  Before I could start working on this project, I had to some documentation that included a proposal, schedule, budget and unboxing my Raspberry Pi.  Once I finished the documentation then I started to research how to connect the 16x2 LCD with my raspberry Pi which I was able to do.
+
+I have made good progress in meeting the goals of my project as defined in my proposal.  My main objective was to be able to get something to display on the 16x2 LCD.  Unforuntaely I was unable to get it to display the information from the light sensor that we read information from earlier on in the semester because I am not sure how to convert c code into python code.  That was one of the main problems that I encountered while working on my project.  I spent days doing a lot of research on converting c code into python code but was unsuccessful in finding a guide that could help me with doing that.  I also spent a few days in the prototype lab asking for help but they were not able to help me with this.
+
+In the end, I had bought an extra part which was the bread board wires which I did not end of needing otherwise my financial budget stayed the same.  
+
 ### December 18, 2017
 30 Second video:
 <iframe width="854" height="480" src="https://www.youtube.com/embed/1qr4lJBr0us" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
