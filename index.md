@@ -16,6 +16,8 @@ The project that I decided to choose this semester was working with the 16x2 LCD
 
 I have made good progress in meeting the goals of my project as defined in my proposal.  My main objective was to be able to get something to display on the 16x2 LCD.  Unforuntaely I was unable to get it to display the information from the light sensor that we read information from earlier on in the semester because I am not sure how to convert c code into python code.  That was one of the main problems that I encountered while working on my project.  I spent days doing a lot of research on converting c code into python code but was unsuccessful in finding a guide that could help me with doing that.  I also spent a few days in the prototype lab asking for help but they were not able to help me with this.  In the end, I had bought an extra part which was the bread board wires which I did not end up needing, otherwise my financial budget stayed the same.  
 
+Link to GitHub: https://github.com/adriancaprini/BluetoothProjectProposal-
+
 ### December 18, 2017
 30 Second video:
 <iframe width="854" height="480" src="https://www.youtube.com/embed/1qr4lJBr0us" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
