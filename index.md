@@ -8,6 +8,10 @@ title: simple site
 Adrian Caprini CENG 317 16x2 LCD.
 -------------
 
+### January 15, 2018
+* I worked on my PowerPoint for my presentation and posted the file on my blog.
+* Gathered all my parts I needed for the presentation that I was going to present this week.
+
 ### January 8, 2018
 Progress Report:
 16x2 LCD
