@@ -8,6 +8,10 @@ title: simple site
 Adrian Caprini CENG 317 16x2 LCD.
 -------------
 
+### January 22, 2018
+* I worked on my build Instructions and posted the file on my blog.
+* The link to my build Instructions is: 
+
 ### January 15, 2018
 * I worked on my PowerPoint for my presentation and posted the file on my blog.
 * Gathered all my parts I needed for the presentation that I presented this week.
