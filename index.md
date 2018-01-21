@@ -10,7 +10,7 @@ Adrian Caprini CENG 317 16x2 LCD.
 
 ### January 22, 2018
 * I worked on my build Instructions and posted the file on my blog.
-* The link to my build Instructions is: https://github.com/adriancaprini/BluetoothProjectProposal-/blob/master/16x2%20LCD%20Build%20Instructions%20Adrian%20Caprini.docx
+*  link to Build Instructions: https://github.com/adriancaprini/BluetoothProjectProposal-/blob/master/16x2%20LCD%20Build%20Instructions%20Adrian%20Caprini.docx
 
 ### January 15, 2018
 * I worked on my PowerPoint for my presentation and posted the file on my blog.
